@@ -1,0 +1,39 @@
+@import url('https://fonts.googleapis.com/css2?family=Kumbh+Sans:wght@700&display=swap');
+
+*{
+   overflow: hidden;
+}
+
+.img1{
+height: 60rem;
+width: 60rem;
+position: relative;
+}
+
+.img2{
+   width: 60rem;
+   height: 60rem;
+justify-content: end;
+text-align: end;
+position: relative;
+}
+
+.name{
+   font-family: Kumbh Sans;
+   margin-top: 15px;
+   font-size: 20px;
+
+}
+
+.london{
+  font-size: 19px;
+  margin-top: -15px;
+   
+}
+.figures{
+   font-size: 25px;
+   font-family: Kumbh Sans;
+}
+.likes{
+   margin-top: -20px;
+}
